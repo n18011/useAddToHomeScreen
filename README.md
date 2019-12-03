@@ -1,5 +1,11 @@
 # useAddToHomeScreen
 
+This Repo is React Custom Hooks
+
+
+beforeinstallpromptイベントをキャッチする
+
+
 ## Example Usage
 ```javascript
 import React, {useState, useEffect} from 'react'
